@@ -3,7 +3,7 @@
 
 ## Installing
 
-Using npm:
+### Using npm:
 
 ```md
 $ npm install -g tryhtml
@@ -14,7 +14,8 @@ or
 $ npm install --global tryhtml
 ```
 View on [npm](https://www.npmjs.com/package/tryhtml).
-Using Yarn
+
+### Using Yarn:
 
 ```md
 $ yarn add -dev tryhtml
