@@ -40,4 +40,4 @@ $ yarn add -dev tryhtml
 
 # License
 
- **Try HMLT CLI** is released under [MIT license](https://github.com/tryHTML/tryHTML/blob/master/LICENSE).
+ **Try HTML CLI** is released under [MIT license](https://github.com/tryHTML/tryHTML/blob/master/LICENSE).
