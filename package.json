@@ -1,0 +1,23 @@
+{
+  "name": "tryhtml",
+  "version": "1.0.0",
+  "description": "Try HTML's package",
+  "main": "cli.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tryhtml/tryhtml.git"
+  },
+  "keywords": [
+    "tryhtml",
+    "i❤️html"
+  ],
+  "author": "Tryhtml <github@tryhtml.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tryhtml/tryhtml/issues"
+  },
+  "homepage": "https://github.com/tryhtml/tryhtml#readme"
+}
