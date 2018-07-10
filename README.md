@@ -8,13 +8,13 @@ TryHTML CLI
 
 # Installation
 
-Using <a href="https://npmjs.org/tryhtml"><img src="https://png.icons8.com/color/200/000000/npm.png" width= "25" height="25"></a> :
+<a href="https://npmjs.org/tryhtml"><img src="https://png.icons8.com/color/200/000000/npm.png" width= "25" height="25"></a>
 
 ```
 $ npm i tryhtml
 ```
 
-Using <a href="https://yarnpkg.com/en/package/tryhtml"><img src="https://raw.githubusercontent.com/yarnpkg/assets/master/yarn-kitten-circle.png" width= "20" height="20"></a> :
+<a href="https://yarnpkg.com/en/package/tryhtml"><img src="https://raw.githubusercontent.com/yarnpkg/assets/master/yarn-kitten-circle.png" width= "20" height="20"></a>
 
 ```
 $ yarn add -dev tryhtml
@@ -33,7 +33,7 @@ $ yarn add -dev tryhtml
 
 # Team
 
-[![Carlos Abraham](https://avatars3.githubusercontent.com/u/21347264?s=100&v=43&s)](https://github.com/19cah) |
+[![Carlos Abraham](https://avatars3.githubusercontent.com/u/21347264?s=75&v=43&s)](https://github.com/19cah) |
 --- |
 [Carlos Abraham](https://github.com/19cah) |
 
